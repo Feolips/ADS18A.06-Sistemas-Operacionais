@@ -1,1 +1,1 @@
-# ADS18A.06-Sistemas-Operacionais
+# ADS18A.06 Sistemas Operacionais
